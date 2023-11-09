@@ -5,16 +5,9 @@ tags: [bus sémantique]
 ---
 
 # Bienvenue sur la documentation du bus sémantique 🌻
+Le Bus Sémantique peut être considéré comme une pierre de Rosette pour le domaine des données. 
+Il a été créé dans le but de fournir à ses utilisateur.ices un outil open source ergonomique, modulaire et puissant capable d’assurer l’interopérabilité entre plusieurs systèmes hétérogènes.
 
-Le Bus Sémantique peut être considéré comme une Pierre de Rosette pour le domaine des données.
+Le Bus Sémantique tire sa force de sa conception singulière, fusionnant un Bus Logiciel et un ETL (Extract Transform Load), tout en exploitant la puissance et la polyvalence du traitement des graphes orientés objets. Cette particularité lui permet de raisonner en harmonie avec les données telles qu'elles se présentent, préservant leur complexité tout au long du flux de traitement. Le Bus Sémantique est ainsi capable de s'adapter à divers écosystèmes et de suivre leurs évolutions de manière synchronisée, sans aucune contrainte.
 
-C'est un logiciel coopératif hébergé dans le cloud (SAAS) qui mélange les concepts d'ESB (Enterprise Service Bus) et d'ETL (Extract Transform Load).
-
-Il permet de travailler avec des données aux formats différents (json, csv, bases de données...) et également de traduire une donnée sémantique source en une donnée sémantique cible.
-
-Le bus sémantique a été créé dans le but de de fournir à ses utilisateur.ices un outil open source ergonomique, modulaire et puissant capable d’assurer l’interopérabilité entre plusieurs systèmes hétérogènes.
-
-C'est un outil qui a été conçu avec le but d'être facile à utiliser.
-
-## Table des matières 
 
