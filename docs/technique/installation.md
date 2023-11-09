@@ -12,8 +12,9 @@ Cette page est encore en cours de construction.
 
 # Comment accéder au Bus Sémantique en ligne?
 
-Il faut se rendre sur le site [Grappe.io](https://grappe.io/ihm/login.html?#connexion) et se créer un compte.
-
+Grappe vous offre un accès facile à la dernière version du Bus Sémantique en utilisant simplement un navigateur web, sans nécessiter aucune installation.
+Rendez-vous sur le site [Grappe.io](https://grappe.io/ihm/login.html?#connexion).
+Inscription gratuite et sans engagement, seule une adresse e-mail valide est requise.
 :::info
 N'hésitez pas à contacter notre équipe si vous rencontrez un problème lors de la création de compte.
 :::
