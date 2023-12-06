@@ -20,5 +20,5 @@ La coopérative Data Players, principale contributrice du projet avec l’Assemb
 
 Le Bus Sémantique est sous licence GNU GLP v3.0, compatible sur toutes les distributions Linux. 
 
-Remarque : Logiciel est en version bêta. Le moteur, le design, l’ergonomie et certaines fonctionnalités sont en cours de développement.
+:::caution Logiciel est en version bêta. Le moteur, le design, l’ergonomie et certaines fonctionnalités sont en cours de développement. :::
 
